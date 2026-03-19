@@ -1,0 +1,21 @@
+{
+  "generated": [
+    "icon_512.png",
+    "ui/kitchenselect_screen.png",
+    "ui/pizzeria_screen.png",
+    "ui/sushi_screen.png",
+    "ui/cantina_screen.png",
+    "ui/gameover_screen.png",
+    "ui/leaderboard_screen.png",
+    "ui/settings_screen.png",
+    "ui/tutorial_screen_step1.png",
+    "ui/tutorial_screen_step2.png",
+    "ui/tutorial_screen_step3.png",
+    "ui/tutorial_screen_step4.png"
+  ],
+  "failed": [
+    "ui/mainmenu_bg.png",
+    "ui/comboresult_popup.png"
+  ],
+  "total_tokens": 25064
+}

@@ -1,0 +1,47 @@
+{
+  "archetype": "fruit-ninja",
+  "selection": {
+    "sprites/object": {
+      "pack": "physics-assets",
+      "source": "kenney",
+      "path": "objects/generic/physics-assets",
+      "type": "object",
+      "theme": [
+        "generic"
+      ],
+      "png_count": 333
+    },
+    "sprites/ui": {
+      "pack": "craftpix-space-shooter-creation-kit-pixel-art-avatars",
+      "source": "craftpix",
+      "path": "enemies/space/craftpix-space-shooter-creation-kit-pixel-art",
+      "type": "ui",
+      "theme": [
+        "space",
+        "sci-fi"
+      ],
+      "png_count": 42
+    },
+    "backgrounds/menu": {
+      "pack": "free-sky-with-clouds-pixel-art-backgrounds-pack-3",
+      "source": "craftpix",
+      "path": "tilesets/side/generic/free-sky-with-clouds-pixel-art-backgrounds-pack-3",
+      "type": "background",
+      "theme": [
+        "nature"
+      ],
+      "png_count": 7
+    },
+    "backgrounds/game": {
+      "pack": "free-sky-with-clouds-pixel-seamless-backgrounds",
+      "source": "craftpix",
+      "path": "tilesets/side/ocean/free-sky-with-clouds-pixel-seamless-backgrounds",
+      "type": "background",
+      "theme": [
+        "nature",
+        "pirate"
+      ],
+      "png_count": 7
+    }
+  }
+}
